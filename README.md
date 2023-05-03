@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id="header" align="center">
 
-<!--
-**mantofer02/mantofer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I hope you find what you are looking for in my profile!
+Feel free to browse over my public repos. Feel free to provide feedback, insight or contact me!
 
-Here are some ideas to get you started:
+<div id="badges">
+<a href="http://www.linkedin.com/in/marco-ferraro-1182a1200/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="mailto:mantofer2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Stats:
+Here is my productivity stats:
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mantofer02)](https://git.io/streak-stats)
+
+</div>
