@@ -14,7 +14,13 @@ Feel free to browse over my public repos. Feel free to provide feedback, insight
 </div>
 
 ---
+### About
 
+<div align="center">
+I am a recent graduate in computer science with a strong foundation in software development, data structures and algorithms. I have experience in web development, machine learning, and data analysis. I am proficient in Java, Python, and C++. I am a skilled problem-solver and an eager learner, always looking for new challenges and opportunities to grow.
+</div>
+
+---
 ### My Stats:
 Here is my productivity stats:
 
