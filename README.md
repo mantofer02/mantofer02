@@ -20,7 +20,7 @@ I am a recent graduate in computer science with a strong foundation in software 
 
 ---
 ### My Stats:
-Here is my productivity stats:
+Here are my productivity stats:
 
 <div align="center">
 
