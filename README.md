@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
-## Hey, I hope you find what you are looking for in my profile!
-Feel free to browse over my public repos. Feel free to provide feedback, insight or contact me!
+## Hey, nice to meet you!
+Feel free to browse over my public repos and to provide feedback, insight or contact me!
 
 <div id="badges">
 <a href="http://www.linkedin.com/in/marco-ferraro-1182a1200/">
