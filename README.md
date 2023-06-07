@@ -26,4 +26,5 @@ Here are my productivity stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mantofer02)](https://git.io/streak-stats)
 
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantofer02)](https://github.com/anuraghazra/github-readme-stats)
 </div>
