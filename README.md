@@ -24,6 +24,6 @@ Here are my productivity stats:
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantofer02&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantofer02&show_icons=true)
 
 </div>
