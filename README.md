@@ -23,5 +23,7 @@ I am a recent graduate in computer science with a strong foundation in software 
 Here are my productivity stats:
 
 <div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantofer02)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
