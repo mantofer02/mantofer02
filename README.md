@@ -4,7 +4,7 @@
 Feel free to browse over my public repos and to provide feedback, insight or contact me!
 
 <div id="badges">
-<a href="http://www.linkedin.com/in/marco-ferraro-1182a1200/">
+<a href="https://www.linkedin.com/in/marco-ferraro-rodriguez/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="mailto:mantofer2000@gmail.com">
